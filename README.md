@@ -1,2 +1,0 @@
-# seaduck.github.io
-sea
