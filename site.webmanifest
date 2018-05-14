@@ -2,7 +2,10 @@
   "lang": "en",
   "name": "Sea Battle",
   "short_name": "Sea Battle",
-  "description": "The old good game",
+  "description": "The old good paper game online",
+  "theme_color": "#00bbd0",
+  "background_color": "#fff",
+  "display": "standalone",
   "icons": [
       {
           "src": "/android-chrome-36x36.png",
@@ -48,9 +51,11 @@
           "src": "/android-chrome-512x512.png",
           "sizes": "512x512",
           "type": "image/png"
+      },
+      {
+       "src": "/ico.svg",
+       "type": "image/svg+xml",
+       "sizes": "513x513"
       }
-  ],
-  "theme_color": "#00bbd0",
-  "background_color": "#00bbd0",
-  "display": "standalone"
+  ]
 }
