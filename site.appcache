@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# Time: 2018-05-14
+
+CACHE:
+favicon.ico
+
+NETWORK:
+http://*
+https://*
+*
